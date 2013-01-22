@@ -1,0 +1,30 @@
+agrouter - protocol optimizing network
+
+1. What is an agrouter
+2. OS support
+3. Compiling
+4. Bug and Fix
+
+1. What is an agrouter
+
+agrouter is an algorithm for network routing.
+
+This article describe better about project
+http://www.rotadefault.com.br/2012/06/27/algoritmos-geneticos-para-roteamento-em-redes/
+
+It's licensed under GPLv3+ terms.
+
+2. OS support
+
+ This version is compiling and tested in Linux (x86 and x86-64),
+ If you compiling this algorithm sucessfully in other environments,
+ please let me know.
+
+3. Compiling
+
+gcc -lncurses agrouter.c -o agrouter
+
+4. Bug and Fix
+
+I'm needing some help. If you want to contribute, please contact at
+<loganbr2004 *noSPAM* gmail.com>

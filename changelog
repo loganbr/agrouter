@@ -1,0 +1,10 @@
+agrouter - protocol optimizing network - ChangeLog
+
+agrouter - January 21, 2013
+Fixed bugs in code (Thanks c00ler by help)
+
+agrouter - January 11, 2013
+Fixed bugs compiling and compatibility libs with unix like (Thanks c00ler by help)
+
+agrouter - November 26, 2012
+Initial release. (Ricardo Loganbr / Rodrigo Aboud)
