@@ -102,7 +102,8 @@ void convdecimal()
        for(l=0; l<no_alelo; l++)
        {
 	  decimal += (bin[i][k+m] * num);
-	  num*=2;
+
+	  num<<=1;
 	  m--;
        }
        no[i][j] = decimal;
